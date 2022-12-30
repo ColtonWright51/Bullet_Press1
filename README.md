@@ -1,3 +1,3 @@
-**Bullet_Press1**
+# Bullet_Press1
 
 Store code for the Aii bullet press project
